@@ -1,0 +1,61 @@
+
+      //00
+      "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+      //01 angel island
+      "https://github.com/abandonquestband/aq-learning-center/raw/main/sheet-music/sonic-3_angel-island-and-special-stage/sonic-3_angel-island-and-special-stage.pdf",
+      //02 aquatic ruin
+      "https://vgleadsheets.com/assets/sheets/C/Sonic%20the%20Hedgehog%202%20-%20Aquatic%20Ruin%20Zone.pdf",
+      //03 baka
+      "https://vgleadsheets.com/assets/sheets/C/Yakuza%205%20-%20Baka%20Mitai.pdf",
+      //04 ballad
+      "https://raw.githubusercontent.com/abandonquestband/aq-learning-center/main/sheet-music/the-legend-of-zelda-skyward-sword_ballad-of-the-goddess/the-legend-of-zelda-skyward-sword_ballad-of-the-goddess-Electric_Bass.pdf",
+      //05 castle
+      "https://raw.githubusercontent.com/abandonquestband/aq-learning-center/main/sheet-music/super-mario-world_castle-theme/super-mario-world_castle-theme.pdf",
+      //06 dreamer
+      "https://vgleadsheets.com/assets/sheets/C/Streets%20of%20Rage%202%20-%20Dreamer.pdf",
+      //07 fighting
+      "https://raw.githubusercontent.com/abandonquestband/aq-learning-center/main/sheet-music/final-fantasy-vii_those-who-fight/MERGE_final-fantasy-vii_those-who-fight-and-victory-fanfare.pdf",
+      //08 flying battery
+      "https://vgleadsheets.com/assets/sheets/C/Sonic%20and%20Knuckles%20-%20Flying%20Battery%20Zone%20(Act%201).pdf",
+      //09 ghostly eyes
+      "https://raw.githubusercontent.com/abandonquestband/aq-learning-center/main/sheet-music/touhou-08_ghostly-eyes/touhou-08_ghostly-eyes-Electric_Bass.pdf",
+      //10 gran turismo
+      "https://raw.githubusercontent.com/abandonquestband/aq-learning-center/main/sheet-music/gran-turismo-3_medley/gran-turismo-3_medley.pdf",
+      //11 high above
+      "https://raw.githubusercontent.com/abandonquestband/aq-learning-center/main/sheet-music/shovel-knight_high-above-the-land/condensed-Electric_Bass.pdf",
+      //12 holy orders
+      "https://raw.githubusercontent.com/abandonquestband/aq-learning-center/main/sheet-music/guilty-gear_holy-orders/guilty-gear_holy-orders.pdf",
+      //13 horse race
+      "https://vgleadsheets.com/assets/sheets/C/The%20Legend%20of%20Zelda%20-%20Ocarina%20of%20Time%20-%20Horse%20Race.pdf",
+      //14 in the blood
+      "https://raw.githubusercontent.com/abandonquestband/aq-learning-center/main/sheet-music/hades_in-the-blood/key-of-c-phrygian-dominant/in-the-blood-Bass_Guitar.pdf",
+      //15 karin
+      "https://vgleadsheets.com/assets/sheets/C/Street%20Fighter%20V%20-%20Theme%20of%20Karin%20Kanzuki.pdf",
+      //16 marble zone
+      "https://raw.githubusercontent.com/abandonquestband/aq-learning-center/main/sheet-music/sonic-the-hedgehog_marble-zone/sonic-the-hedgehog_marble-zone.pdf",
+      //17 mario kart theme
+      "https://raw.githubusercontent.com/abandonquestband/aq-learning-center/main/sheet-music/mario-kart-8_main-theme/mario-kart-8_main-theme-Electric_Bass.pdf",
+      //18 megaman intro
+      "https://raw.githubusercontent.com/abandonquestband/aq-learning-center/main/sheet-music/mega-man-7_opening-stage/mega-man-7_opening-stage-Electric_Bass.pdf",
+      //19 mii channel
+      "https://vgleadsheets.com/assets/sheets/C/Wii%20-%20Mii%20Channel.pdf",
+      //20 nuclear fusion
+      "https://raw.githubusercontent.com/abandonquestband/aq-learning-center/main/sheet-music/touhou-11_nuclear-fusion/touhou-11_nuclear-fusion-Electric_Bass.pdf",
+      //21 primrose
+      "https://vgleadsheets.com/assets/sheets/C/Octopath%20Traveler%20-%20Primrose,%20the%20Dancer.pdf",
+      //22 scars of time
+      "https://vgleadsheets.com/assets/sheets/C/Chrono%20Cross%20-%20Scars%20of%20Time.pdf",
+      //23 searching for friends
+      "https://vgleadsheets.com/assets/sheets/C/Final%20Fantasy%20VI%20-%20Searching%20for%20Friends.pdf",
+      //24 secret of the forest
+      "https://vgleadsheets.com/assets/sheets/C/Chrono%20Trigger%20-%20Secret%20of%20the%20Forest.pdf",
+      //25 smash bros
+      "https://raw.githubusercontent.com/abandonquestband/aq-learning-center/main/sheet-music/super-smash-bros_medley/smash-bros-medley-Bass.pdf",
+      //26 spring yard
+      "https://vgleadsheets.com/assets/sheets/C/Sonic%20the%20Hedgehog%20-%20Spring%20Yard%20Zone.pdf",
+      //27 under heaven destruction
+      "https://raw.githubusercontent.com/abandonquestband/aq-learning-center/main/sheet-music/blazblue_under-heaven-destruction-ii/blazblue_under-heaven-destruction-ii-Electric_Bass.pdf",
+      //28 xepher
+      "https://raw.githubusercontent.com/abandonquestband/aq-learning-center/main/sheet-music/dance-dance-revolution_xepher/dance-dance-revolution_xepher-Electric_Bass.pdf",
+      //29 mario intro
+      //""
