@@ -1,2 +1,2 @@
 # PDF MIDI Page Turner
-![Screenshot](ss.png)
+<img src="ss.png" width="350">
