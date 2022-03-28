@@ -6,7 +6,7 @@
 
     "https://vgleadsheets.com/assets/sheets/C/Sonic%20the%20Hedgehog%202%20-%20Aquatic%20Ruin%20Zone.pdf",
 
-    "https://vgleadsheets.com/assets/sheets/C/Yakuza%205%20-%20Baka%20Mitai.pdf",
+    "https://raw.githubusercontent.com/abandonquestband/aq-learning-center/main/sheet-music/yakuza-0_baka-mitai/yakuza-0_baka-mitai.pdf",
 
     "https://raw.githubusercontent.com/abandonquestband/aq-learning-center/main/sheet-music/the-legend-of-zelda-skyward-sword_ballad-of-the-goddess/the-legend-of-zelda-skyward-sword_ballad-of-the-goddess-Sine_Synthesizer.pdf",
 
@@ -56,7 +56,11 @@
 
     "https://raw.githubusercontent.com/abandonquestband/aq-learning-center/main/sheet-music/blazblue_under-heaven-destruction-ii/blazblue_under-heaven-destruction-ii-Saw_Synthesizer.pdf",
 
-    "https://raw.githubusercontent.com/abandonquestband/aq-learning-center/main/sheet-music/dance-dance-revolution_xepher/dance-dance-revolution_xepher-Brightness_Synthesizer.pdf"
+    "https://raw.githubusercontent.com/abandonquestband/aq-learning-center/main/sheet-music/dance-dance-revolution_xepher/dance-dance-revolution_xepher-Brightness_Synthesizer.pdf",
+
+    "https://raw.githubusercontent.com/abandonquestband/aq-learning-center/main/sheet-music/mario-intro/mario-intro-Brightness_Synthesizer.pdf",
+
+    "https://raw.githubusercontent.com/abandonquestband/aq-learning-center/main/sheet-music/blazblue_bullet-dance-ii/bullet-dance-Saw_Synthesizer.pdf"
   ],
   "mike": [
     "http://www.pdf995.com/samples/pdf.pdf",
@@ -65,7 +69,7 @@
 
     "https://vgleadsheets.com/assets/sheets/C/Sonic%20the%20Hedgehog%202%20-%20Aquatic%20Ruin%20Zone.pdf",
 
-    "https://vgleadsheets.com/assets/sheets/C/Yakuza%205%20-%20Baka%20Mitai.pdf",
+    "https://raw.githubusercontent.com/abandonquestband/aq-learning-center/main/sheet-music/yakuza-0_baka-mitai/yakuza-0_baka-mitai.pdf",
 
     "https://raw.githubusercontent.com/abandonquestband/aq-learning-center/main/sheet-music/the-legend-of-zelda-skyward-sword_ballad-of-the-goddess/the-legend-of-zelda-skyward-sword_ballad-of-the-goddess-Acoustic_Guitar.pdf",
 
@@ -115,7 +119,11 @@
 
     "https://raw.githubusercontent.com/abandonquestband/aq-learning-center/main/sheet-music/blazblue_under-heaven-destruction-ii/blazblue_under-heaven-destruction-ii-Electric_Guitar.pdf",
 
-    "https://raw.githubusercontent.com/abandonquestband/aq-learning-center/main/sheet-music/dance-dance-revolution_xepher/dance-dance-revolution_xepher-Electric_Guitar.pdf"
+    "https://raw.githubusercontent.com/abandonquestband/aq-learning-center/main/sheet-music/dance-dance-revolution_xepher/dance-dance-revolution_xepher-Electric_Guitar.pdf",
+    
+    "https://raw.githubusercontent.com/abandonquestband/aq-learning-center/main/sheet-music/mario-intro/mario-intro-Brightness_Synthesizer.pdf",
+
+    "https://raw.githubusercontent.com/abandonquestband/aq-learning-center/main/sheet-music/blazblue_bullet-dance-ii/bullet-dance-Saw_Synthesizer.pdf"
   ],
   "dan": [
     "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
@@ -124,7 +132,7 @@
 
     "https://vgleadsheets.com/assets/sheets/C/Sonic%20the%20Hedgehog%202%20-%20Aquatic%20Ruin%20Zone.pdf",
 
-    "https://vgleadsheets.com/assets/sheets/C/Yakuza%205%20-%20Baka%20Mitai.pdf",
+    "https://raw.githubusercontent.com/abandonquestband/aq-learning-center/main/sheet-music/yakuza-0_baka-mitai/yakuza-0_baka-mitai.pdf",
 
     "https://raw.githubusercontent.com/abandonquestband/aq-learning-center/main/sheet-music/the-legend-of-zelda-skyward-sword_ballad-of-the-goddess/the-legend-of-zelda-skyward-sword_ballad-of-the-goddess-Electric_Bass.pdf",
 
@@ -174,6 +182,10 @@
 
     "https://raw.githubusercontent.com/abandonquestband/aq-learning-center/main/sheet-music/blazblue_under-heaven-destruction-ii/blazblue_under-heaven-destruction-ii-Electric_Bass.pdf",
 
-    "https://raw.githubusercontent.com/abandonquestband/aq-learning-center/main/sheet-music/dance-dance-revolution_xepher/dance-dance-revolution_xepher-Electric_Bass.pdf"
+    "https://raw.githubusercontent.com/abandonquestband/aq-learning-center/main/sheet-music/dance-dance-revolution_xepher/dance-dance-revolution_xepher-Electric_Bass.pdf",
+
+    "https://raw.githubusercontent.com/abandonquestband/aq-learning-center/main/sheet-music/mario-intro/mario-intro-Electric_Bass.pdf",
+
+    "https://raw.githubusercontent.com/abandonquestband/aq-learning-center/main/sheet-music/blazblue_bullet-dance-ii/bullet-dance-Electric_Bass.pdf"
   ]
 }

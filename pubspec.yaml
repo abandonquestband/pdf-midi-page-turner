@@ -33,7 +33,7 @@ dev_dependencies:
 flutter_icons:
   ios: true
   macos: true
-  image_path: "assets/images/appIcon/aq_logo-transparent.png"
+  image_path: "assets/images/appIcon/page-turner-logo.png"
 
 # The following section is specific to Flutter.
 flutter:
@@ -46,6 +46,7 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
      - assets/images/
+     - assets/images/appIcon/
      - assets/accountsFullNames.json
      - assets/accountsImagePaths.json
      - assets/accountsPdfUrls.json

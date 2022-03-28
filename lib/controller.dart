@@ -145,7 +145,8 @@ class MidiControlsState extends State<MidiControls> {
           mainAxisAlignment: MainAxisAlignment.center,
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
-            Image.asset("assets/images/aq_logo-transparent.png"),
+            Image.asset(
+                "assets/images/appIcon/page-turner-logo_transparent.png"),
             Text(
               "Click the music note to get started!",
               style: TextStyle(fontSize: 25),
